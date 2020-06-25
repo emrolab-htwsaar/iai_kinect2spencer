@@ -1,0 +1,12 @@
+Credits:
+
+This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+Project:  spencer_people_tracking/launch/spencer_people_tracking_launch https://github.com/spencer-project/spencer_people_tracking/blob/master/launch/spencer_people_tracking_launch
+Copyright (c) 2014-2015 Timm Linder, Social Robotics Laboratory, University of Freiburg
+Copyright (c) 2014-2015 Stefan Breuers, Computer Vision Group, RWTH Aachen University
+License (3-Clause BSD) https://github.com/spencer-project/spencer_people_tracking/blob/master/launch/spencer_people_tracking_launch/LICENSE
+
+Project:  iai_kinect2 https://github.com/code-iai/iai_kinect2
+Copyright (c) 2014 Thiemo Wiedemeyer, Institute for Artificial Intelligence - University of Bremen
+License ( Version 2.0) https://github.com/code-iai/iai_kinect2/blob/master/LICENSE

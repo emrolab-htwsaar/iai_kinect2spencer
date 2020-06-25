@@ -1,0 +1,6 @@
+target_width: 640
+target_height: 480
+
+source_topic: "/spencer/sensors/rgbd_front_top/qhd/image_depth_rect"
+target_topic: "/spencer/sensors/rgbd_front_top/depth/image_rect"
+target_encoding: "32FC1"

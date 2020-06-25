@@ -1,0 +1,5 @@
+<launch>
+    <rosparam command="load" file="$(find image_resampler)/config/settings.yaml" ns="image_resampler" />
+
+    <node pkg="image_resampler" type="image_resampler" name="image_resampler" output="screen" respawn="true" />
+</launch>
