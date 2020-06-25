@@ -5,8 +5,6 @@ Middleware for use between [iai_kinect2](https://github.com/code-iai/iai_kinect2
 ## Maintainer:
 PLEASE NOT THAT THIS PACKAGE IS NOT UNTER ACTIVE MAINTENANCE RIGHT NOW
 
-- Philip Hoffmann <<philip.hoffmann@htwsaar.de>>, [Embedded Robotics Lab](http://emrolab.htw-saarland.de/), htwsaar - University of Applied Science
-
 ### Dependencies:
 * [Robot Operating System](http://www.ros.org/), please check the version needed inside the SPENCER and iai_kinect2 README.
 
